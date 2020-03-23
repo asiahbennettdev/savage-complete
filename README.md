@@ -1,7 +1,7 @@
 # savage-auth
 Objective was to take starter code and manipulate showing the user name on the profile page, while user message is displayed. 
 
-![ screenshot of application](https://github.com/asiahbennettdev/savage-complete/blob/answer/public/prosav.png)
+![ screenshot of application](https://github.com/asiahbennettdev/savage-complete/blob/answer/public/img/prosav.png)
 
 ## Installation
 
