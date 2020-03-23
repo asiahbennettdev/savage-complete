@@ -16,3 +16,13 @@ Objective was to take starter code and manipulate showing the user name on the p
 ## Credit
 
 Modified from Scotch.io's auth tutorial
+
+# How It's Made:
+Tech used: HTML, CSS, Javascript, Node
+
+# Optimizations
+Optimizations would include the user ability to create personal login, navigate to profile page where they have access to the MF Doomsday Chat Room. 
+
+# Lessons Learned 
+* How to link pages in Javascript routes
+* How to use the port to call local server for Node
